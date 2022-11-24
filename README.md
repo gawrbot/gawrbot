@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhea</h1>
-<h3 align="center">Full stack developer and good communicator</h3>
+<h3 align="center">Full stack developer</h3>
 
 - 🔭 I’m currently working on [Mapping Mushrooms ... and Crows](https://mushrooms-crows.fly.dev/)
 
