@@ -3,7 +3,7 @@
 
 - 🧑‍🏭 I'm currently working on a [website for Ann Cotten - the name is pending...](https://github.com/gawrbot/ann-website)
 
-- 🔭 My last completed projects are [Mapping Mushrooms ... and Crows](https://mushrooms-crows.fly.dev/) & [Robot Shop](https://next-ecommerce-robots.fly.dev/)
+- 🔭 My last deployed projects are [Mapping Mushrooms ... and Crows](https://mushrooms-crows.fly.dev/) & [Robot Shop](https://next-ecommerce-robots.fly.dev/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gawrbot](https://github.com/gawrbot)
 
