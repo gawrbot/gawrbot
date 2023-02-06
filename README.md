@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhea</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 🧑‍🏭 I'm currently working on a [website for Ann Cotten - the name is pending...](https://github.com/gawrbot/ann-website)
+- 🧑‍🏭 I'm currently working on [Exophony - a blog for Ann Cotten](https://github.com/gawrbot/ann-website)
 
 - 🔭 My last deployed projects are [Mapping Mushrooms ... and Crows](https://mushrooms-crows.fly.dev/) & [Robot Shop](https://next-ecommerce-robots.fly.dev/)
 
