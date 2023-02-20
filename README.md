@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhea</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 👀 I'm planning to start a blog as a private fun project <img src="https://user-images.githubusercontent.com/105849915/220066686-ab5abd25-710f-412c-8d97-d6c8942aa4f4.gif" alt="Spongebob Fun Song" width="25%" height="25%">
+- 👀 I'm planning to start a blog as a private project <img src="https://user-images.githubusercontent.com/105849915/220066686-ab5abd25-710f-412c-8d97-d6c8942aa4f4.gif" alt="Spongebob Fun Song" width="10%" height="10%">
 
 - 🧑‍🏭 I'm currently working on [Exophony - a blog for Ann Cotten](https://github.com/gawrbot/ann-website)
 
