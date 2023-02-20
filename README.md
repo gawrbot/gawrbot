@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rhea</h1>
 <h3 align="center">Full stack developer</h3>
 
+- 👀 I'm planning to start a blog as a private fun project ![SpongebobFunGIF](https://user-images.githubusercontent.com/105849915/220066686-ab5abd25-710f-412c-8d97-d6c8942aa4f4.gif)
+
+
 - 🧑‍🏭 I'm currently working on [Exophony - a blog for Ann Cotten](https://github.com/gawrbot/ann-website)
 
-- 🔭 My last deployed projects are [Mapping Mushrooms ... and Crows](https://mushrooms-crows.fly.dev/) & [Robot Shop](https://next-ecommerce-robots.fly.dev/)
+- 🔭 My last student projects are [Mapping Mushrooms ... and Crows](https://mushrooms-crows.fly.dev/) & [Robot Shop](https://next-ecommerce-robots.fly.dev/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gawrbot](https://github.com/gawrbot)
 
