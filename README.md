@@ -5,7 +5,7 @@
 
 - 🧑‍🏭 I'm currently working on [Exophony - a blog for Ann Cotten](https://n-co.vercel.app/)
 
-- 🔭 My last student projects are [Mapping Mushrooms ... and Crows](https://mushrooms-crows.fly.dev/) & [Robot Shop](https://next-ecommerce-store-robots.fly.dev/)
+- 🔭 My last student projects are [Mapping Mushrooms ... and Crows - CURRENTLY NOT WORKING IN DEPLOYED VERSION](https://mushrooms-crows.fly.dev/) & [Robot Shop](https://next-ecommerce-store-robots.fly.dev/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gawrbot](https://github.com/gawrbot)
 
