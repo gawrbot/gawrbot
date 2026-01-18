@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhea</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 👀 I'm planning to start a blog as a private project <img src="https://user-images.githubusercontent.com/105849915/220066686-ab5abd25-710f-412c-8d97-d6c8942aa4f4.gif" alt="Spongebob Fun Song" width="5%" height="5%">
+- 👶 I developed a super simple Baby Age App, which tells you your baby's age in days, weeks and months
 
 - 🧑‍🏭 I'm currently working on [Exophony - a blog for Ann Cotten](https://lililil.fly.dev/)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gawrbot](https://github.com/gawrbot)
 
-- 📫 How to reach me **rdieberger@gmail.com**
+- 📫 How to reach me **dieberger@murena.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
